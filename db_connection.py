@@ -1,6 +1,6 @@
 import pymongo
 
-client = pymongo.MongoClient("mongodb+srv://admin:Pongsakon43@cluster0.drcpzet.mongodb.net/?retryWrites=true&w=majority")
+client = "" 
 db = client.storage
 
 class UserRepo :
